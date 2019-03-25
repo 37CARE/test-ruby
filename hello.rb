@@ -1,1 +1,2 @@
-print "Hello world"
+user = gets.chomp "blaze"
+print "Hello world!"
